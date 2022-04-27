@@ -1,0 +1,8 @@
+C:\Users\karol\Desktop\GIT HOMEOWORK\LearningDotNet\LearningArrays\LearningArrays\bin\Release\LearningArrays.exe.config
+C:\Users\karol\Desktop\GIT HOMEOWORK\LearningDotNet\LearningArrays\LearningArrays\bin\Release\LearningArrays.exe
+C:\Users\karol\Desktop\GIT HOMEOWORK\LearningDotNet\LearningArrays\LearningArrays\bin\Release\LearningArrays.pdb
+C:\Users\karol\Desktop\GIT HOMEOWORK\LearningDotNet\LearningArrays\LearningArrays\obj\Release\LearningArrays.csproj.AssemblyReference.cache
+C:\Users\karol\Desktop\GIT HOMEOWORK\LearningDotNet\LearningArrays\LearningArrays\obj\Release\LearningArrays.csproj.SuggestedBindingRedirects.cache
+C:\Users\karol\Desktop\GIT HOMEOWORK\LearningDotNet\LearningArrays\LearningArrays\obj\Release\LearningArrays.csproj.CoreCompileInputs.cache
+C:\Users\karol\Desktop\GIT HOMEOWORK\LearningDotNet\LearningArrays\LearningArrays\obj\Release\LearningArrays.exe
+C:\Users\karol\Desktop\GIT HOMEOWORK\LearningDotNet\LearningArrays\LearningArrays\obj\Release\LearningArrays.pdb
